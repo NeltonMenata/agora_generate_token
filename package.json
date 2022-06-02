@@ -10,6 +10,8 @@
   "author": "Nelton Menata",
   "license": "ISC",
   "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "body-parser": "^1.20.0",
     "express": "^4.18.1"
   }
 }
