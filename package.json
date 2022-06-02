@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines":{
+    "node":"12.22.10"
+  },
   "keywords": [],
   "author": "Nelton Menata",
   "license": "ISC",
