@@ -1,0 +1,15 @@
+{
+  "name": "agora_generate_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nelton Menata",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
